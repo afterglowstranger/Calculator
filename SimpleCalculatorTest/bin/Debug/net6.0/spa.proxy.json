@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:44423",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Chris\\source\\repos\\CT\\CalculatorTest\\CalculatorTest\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
